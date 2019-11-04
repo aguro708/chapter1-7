@@ -1,0 +1,17 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+.main-visual{
+	background-image:url(img/mv.jpg);
+	background-size:cover;
+	background-position:bottom;
+	height:400px;
+	width:100%;
+}
+.headline{
+	padding:20px;
+	font-size:24px;
+	font-weight:700;
+}
